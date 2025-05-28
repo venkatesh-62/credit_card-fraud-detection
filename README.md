@@ -32,3 +32,11 @@ Training multiple classification models
 Model evaluation using precision, recall, F1-score, ROC-AUC
 
 Final model selection and prediction
+
+# Getting started
+
+Download the dataset from Kaggle and place creditcard.csv in the root folder.
+
+install required python packages if previously not installed
+
+Finally run on Jupyter Notebook and enjoy 
